@@ -22,4 +22,4 @@ function calcularNivel(vitorias, derrotas) {
 }
 
 // Exemplo de uso
-console.log(calcularNivel(85, 30));
+console.log(calcularNivel(99, 35));
